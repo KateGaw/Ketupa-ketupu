@@ -1,17 +1,7 @@
 body {
-  font-family: OpenSans-Regular, OpenSans-Bold, Arial, sans-serif;
+  font-family: 'Caveat', cursive, Arial, sans-serif;
   margin: 0px;
   padding: 0px;
-}
-
-@font-face {
-  font-family: OpenSans-Regular;
-  src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: OpenSans-Bold;
-  src: url("../fonts/OpenSans-Bold.ttf") format("truetype");
 }
 
 /* HEADER */
@@ -31,7 +21,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(142, 102, 16, 0.30);
+  background-color: rgba(142, 102, 16, 0.50);
   z-index: 0;
 }
 
@@ -56,7 +46,7 @@ svg {
 }
 
 .h_title {
-  font-family: OpenSans-Bold;
+  font-family: 'Cormorant SC', bold 600;
   /* margin-top: 125px; */
   margin-left: auto;
   margin-right: auto;
@@ -121,7 +111,7 @@ a {
 }
 
 .p2 {
-  font-family: OpenSans-Bold;
+  font-family: 'CMUTypewriterTextRegular';
   margin-top: 0px;
 }
 
@@ -159,7 +149,7 @@ a {
   }
 
   .h_title {
-    font-family: OpenSans-Bold;
+    font-family: 'CMUTypewriterTextRegular';
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -270,7 +260,7 @@ h2, h3 {
   .main_h1 {
     color:#463E3E;
     font-size: 30px;
-    font-family: OpenSans-Bold;
+    font-family: 'CMUTypewriterTextRegular';
     margin-bottom: 0;
     margin-top: 0;
   }
@@ -304,7 +294,7 @@ h2, h3 {
   .main_h2 {
     color:#463E3E;
     font-size: 25px;
-    font-family: OpenSans-Regular;
+    font-family: 'CMUTypewriterTextRegular';
   }
 
   .dark_t {
@@ -313,7 +303,7 @@ h2, h3 {
 
   .text {
     max-width: 550px;
-    font-family: OpenSans-Regular;
+    font-family: 'CMUTypewriterTextRegular';
     margin-top: 0px;
     margin-bottom: 0%;
     padding-bottom:5%;
@@ -576,7 +566,7 @@ h2, h3 {
 .c__count {
   color:white;
   font-size:20px;
-  font-family: OpenSans-Bold;
+  font-family: 'CMUTypewriterTextRegular';
   border-bottom: 3px #A4842E solid;
 }
 
@@ -895,7 +885,7 @@ h2, h3 {
 }
 
 .f_banner-title {
-  font-family: OpenSans-Bold;
+  font-family: 'CMUTypewriterTextRegular';
   margin-top: 0;
   margin-bottom: 0;
   text-align: left;
@@ -905,7 +895,7 @@ h2, h3 {
 }
 
 .f_banner-title2 {
-  font-family: OpenSans-Bold;
+  font-family: 'CMUTypewriterTextRegular';
   color: #DED4B4;
   font-size: 25px;
   margin-top: 0;
