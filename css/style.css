@@ -210,7 +210,6 @@ a {
   }
 
   .btn_content {
-    /* width: 140px; */
     justify-content: flex-start;
   }
 
@@ -317,7 +316,6 @@ h2, h3 {
     margin-top: 0px;
     margin-bottom: 0%;
     padding-bottom: 3%;
-    /* padding-right: 10%; */
     font-size: 18px;
   }
 
@@ -326,7 +324,6 @@ h2, h3 {
   .athlets_img{
     width:auto;
     padding-top: 12%;
-    /* right:52%; */
   }
 
   .footballer_img {
@@ -346,7 +343,6 @@ h2, h3 {
     margin-top: 0px;
     margin-bottom: 0%;
     padding-bottom: 6%;
-    /* padding-right: 10%; */
   }
 
   .athlets__text_1 {
@@ -548,7 +544,6 @@ h2, h3 {
   width:50%;
   line-height: 0;
   min-width: 480.5px;
-  /* min-height: 320.5px; */
   background-color: grey;
 }
 
@@ -568,10 +563,6 @@ h2, h3 {
 
 .size_plus {
   font-size: 22px;
-}
-
-.plus_padding {
-  /* padding-top: 5%; */
 }
 
 .count {
@@ -607,7 +598,6 @@ h2, h3 {
   .be_active__img {
     width:100%;
     min-width: 641px;
-    /* min-height: 487.5px; */
   }
 
   .be_active__text {
@@ -656,7 +646,6 @@ h2, h3 {
   .be_active__img {
     width:100%;
     min-width: 320px;
-    /* min-height: 351px; */
   }
 
   .be_active__text {
@@ -708,7 +697,6 @@ h2, h3 {
   width:50%;
   line-height: 0;
   min-width: 480.5px;
-  /* min-height: 365.6px; */
   background-color: grey;
 }
 
@@ -740,7 +728,6 @@ h2, h3 {
   .find_contact__img {
     width:100%;
     min-width: 641px;
-    /* min-height: 487.5px; */
   }
 
   .find_contact__text {
@@ -763,7 +750,6 @@ h2, h3 {
   .find_contact__img {
     width:100%;
     min-width: 320px;
-    /* min-height: 351px; */
   }
 
   .find_contact__text {
@@ -797,7 +783,6 @@ h2, h3 {
   width:50%;
   line-height: 0;
   min-width: 480.5px;
-  /* min-height: 365.6px; */
   background-color: grey;
 }
 
@@ -828,7 +813,6 @@ h2, h3 {
   .work_it__img {
     width:100%;
     min-width: 641px;
-    /* min-height: 487.5px; */
   }
 
   .work_it__text {
@@ -849,7 +833,6 @@ h2, h3 {
   .work_it__img {
     width:100%;
     min-width: 320px;
-    /* min-height: 351px; */
   }
 
   .work_it__text {
@@ -924,7 +907,6 @@ h2, h3 {
   color: #DED4B4;
   font-size: 22px;
   margin-top: 0;
-  /* text-transform: uppercase; */
 }
 
 .f_text {
