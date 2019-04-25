@@ -419,10 +419,11 @@ h2, h3 {
 }
 
 .img_2 {
-  padding-top: 4.1%;
+  padding-top: 4.9%;
   position:absolute;
   left:66%;
   width:55%;
+  max-width: 459px;
 }
 
 .basketballer_img {
