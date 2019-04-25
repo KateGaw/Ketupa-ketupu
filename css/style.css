@@ -470,7 +470,8 @@ h2, h3 {
 @media (min-width: 641px) and (max-width: 960px) {
   .basketballer_img {
     position: absolute;
-    right: -6%;
+    right: -13%;
+    top: 112%;
   }
 
   .img_2 {
